@@ -42,4 +42,3 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
 }
 
 
-//https://rest.coinapi.io/v1/exchangerate/BTC/USD?apikey=49A180B8-B1BA-4959-A2BD-704D98833F42
